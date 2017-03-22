@@ -5,6 +5,8 @@ Student : Gogea Mihail
 Grafica Simularea Apei
 Timp rezolvare proiect : 12 ore
 
+Codul pentru acest proiect se regaseste in Laboratoare/Laborator8/Laborator8.cpp + directorul Shader
+
 Mentionez ca proiectul a fost lucrat in directorul numit Laboratoare/Laborator8/ (.cpp,Shader).
 
 Pe ecran este sursa lumini, o sfera galbena care emana lumina , pe langa aceasta mai este si o sfera ca apasand tasta SPACE arunca o picatura de apa. Lumina se poate deplasa cu sagetile , iar pentru a se deplasa in sus se apasa tasta M iar pentru jos tasta N. Pentru a se deplasa sfera care arunca picaturi de apa , se apasa tastele w , a, s, d. Pentru a se active modul slow-motion se apasa tasta T, iar urmand a dezactiva se va mai apasa inca odata tasta T. Pentru deplasarea cu camera FPS se va apasa click dreapta, apoi w, a , s, d.
